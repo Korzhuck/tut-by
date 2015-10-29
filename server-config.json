@@ -1,7 +1,7 @@
 {
-'root-url':'http://news.tut.by/exports/android_v2.php',
-'ads-url':'http://reklama.tut.by/get.php',
-'comments-url':'http://news.tut.by/forum/callback.php4',
-'talks-url':'http://talks.by',
-'main-url':'http://tut.by'
+"root-url":"http://news.tut.by/exports/android_v2.php",
+"ads-url":"http://reklama.tut.by/get.php",
+"comments-url":"http://news.tut.by/forum/callback.php4",
+"talks-url":"http://talks.by",
+"main-url":"http://tut.by"
 }
